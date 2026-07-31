@@ -282,6 +282,16 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ---
 
+
+## Gemini API Setup
+
+1. Create a Gemini API key from Google AI Studio.
+2. Copy `.env.example` to `.env`.
+3. Add your API key:
+
+GEMINI_API_KEY=your_actual_api_key
+---
+
 ## Sample Match API Output
 
 ````json
