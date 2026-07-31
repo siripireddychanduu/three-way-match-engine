@@ -314,7 +314,7 @@ GEMINI_API_KEY=your_actual_api_key
 
 ### SUK Master
 
-![SUK](screenshots/suk master.png)
+![SUK](screenshots/sukmaster.png)
 
 ### summary
 
@@ -327,7 +327,7 @@ GEMINI_API_KEY=your_actual_api_key
 
 ### document details
 
-![Document details](screenshots/document details.png)
+![Document details](screenshots/documentdetails.png)
 
 ### match
 
