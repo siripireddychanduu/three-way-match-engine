@@ -494,7 +494,7 @@ GEMINI_API_KEY=your_actual_api_key
             },
             {
                 "itemCode": "4697 psm",
-                "description": "Veg & Paneer Momos 10. 0 Pieces Colour: Size: size Brand:Band_2",
+                "description": "Veg css & Paneer Momos 10. 0 Pieces Colour: Size: size Brand:Band_2",
                 "quantity": 400,
                 "unitRate": 112.19,
                 "mrp": 0,
@@ -1897,7 +1897,7 @@ GEMINI_API_KEY=your_actual_api_key
         ]
     }
 }
-
+,,,
 ---
 
 ## Sample Summary API Output
@@ -1938,6 +1938,7 @@ GEMINI_API_KEY=your_actual_api_key
         ]
     }
 }
+,,,
 ---
 
 ## Sample Parsed Output
@@ -2282,7 +2283,9 @@ GEMINI_API_KEY=your_actual_api_key
         "__v": 0
     }
 }
+,,,
 ---
+
 
 
 ### create suk
