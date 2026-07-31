@@ -1897,7 +1897,7 @@ GEMINI_API_KEY=your_actual_api_key
         ]
     }
 }
-,,,
+```
 ---
 
 ## Sample Summary API Output
@@ -1938,11 +1938,11 @@ GEMINI_API_KEY=your_actual_api_key
         ]
     }
 }
-,,,
+```
 ---
 
 ## Sample Parsed Output
-
+```json
 {
     "success": true,
     "id": "6a6cd390217ea1f04340a7e8",
@@ -2283,7 +2283,7 @@ GEMINI_API_KEY=your_actual_api_key
         "__v": 0
     }
 }
-,,,
+```
 ---
 
 
