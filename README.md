@@ -292,6 +292,48 @@ GEMINI_API_KEY=your_gemini_api_key
 GEMINI_API_KEY=your_actual_api_key
 ---
 
+
+
+## Screenshots
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Upload
+
+![Upload](screenshots/upload.png)
+
+### Three-Way Match
+
+![Match](screenshots/match.png)
+
+### SKU Master
+
+![SKU](screenshots/sku master.png)
+
+### summary
+
+![Summary](screenshots/summary.png)
+
+### exceptions
+
+![Exceptions](screenshots/exceptions.png)
+
+
+### document details
+
+![Document details](screenshots/document details.png)
+
+### match
+
+![Match](screenshots/match.png)
+
+---
 ## Sample Match API Output
 
 ````json
@@ -2242,44 +2284,6 @@ GEMINI_API_KEY=your_actual_api_key
 }
 ---
 
-## Screenshots
-
-### Login
-
-![Login](screenshots/login.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Upload
-
-![Upload](screenshots/upload.png)
-
-### Three-Way Match
-
-![Match](screenshots/match.png)
-
-### SKU Master
-
-![SKU](screenshots/sku master.png)
-
-### summary
-
-![Summary](screenshots/summary.png)
-
-### exceptions
-
-![Exceptions](screenshots/exceptions.png)
-
-
-### document details
-
-![Document details](screenshots/document details.png)
-
-### match
-
-![Match](screenshots/match.png)
 
 ### create suk
 
