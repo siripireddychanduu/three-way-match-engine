@@ -312,9 +312,9 @@ GEMINI_API_KEY=your_actual_api_key
 
 ![Match](screenshots/match.png)
 
-### SKU Master
+### SUK Master
 
-![SKU](screenshots/sku master.png)
+![SUK](screenshots/suk master.png)
 
 ### summary
 
