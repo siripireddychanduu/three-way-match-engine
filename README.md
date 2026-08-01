@@ -341,7 +341,7 @@ GEMINI_API_KEY=your_actual_api_key
 ---
 ## Sample Match API Output
 
-````json
+```json
 
 {
     "success": true,
