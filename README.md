@@ -12,7 +12,7 @@ The application uses **Google Gemini AI** to extract data from uploaded PDF docu
 
 1. Start the backend server.
 2. Start the frontend server.
-3. Open http://localhost:3000
+3. Open (https://three-way-match-engine-three.vercel.app/)
 4. Login using:
 
 **Username:** `admin`
