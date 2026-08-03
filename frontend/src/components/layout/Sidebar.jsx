@@ -65,7 +65,9 @@ export default function Sidebar() {
           </div>
 
           <div>
-            <h2 className="font-bold text-lg">Three-Way Match</h2>
+            <h2 className="text-gray-900 font-bold text-lg">
+  Three-Way Match
+</h2>
 
             <p className="text-xs text-slate-400">Procurement System</p>
           </div>
